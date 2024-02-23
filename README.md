@@ -19,6 +19,13 @@ This Flutter app simplifies property management for owners of rented vehicles, a
   - See remaining days to end of rented period
   - Send complaints/messages to owner
   - Upload bills/documents easily
+  - 
+- Owner Features:
+  - **Property Management:** Add, edit, and manage all rental properties within the app.
+  - **Income Tracking:** View total income and earnings from individual properties in real-time.
+  - **Complaint Management:** Monitor and respond to tenant complaints promptly.
+  - **Maintenance Tracking:** Schedule, track, and manage property maintenance requests.
+
 - Profile Management: Easily manage and update user profiles.
 
 ## Technologies Used
