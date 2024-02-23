@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548605842763",
+    "project_id": "rent-property-management-5b72c",
+    "storage_bucket": "rent-property-management-5b72c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548605842763:android:3a9383d446db2bc60dc4ce",
+        "android_client_info": {
+          "package_name": "com.example.rentpropertymanage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowOU8WxX235W_Yh5a9tNcTRxmbK04uN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
