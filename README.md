@@ -35,6 +35,10 @@ This Flutter app simplifies property management for owners of rented vehicles, a
 - Project Management
 
 ## Contributors
+- Nipuna Randiya
+- Sangeeth
+- Devhan Hansaja
+- Sahan Sithira
 
 
 
